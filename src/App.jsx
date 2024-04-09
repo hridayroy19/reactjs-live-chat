@@ -1,14 +1,13 @@
+import Register from './pages/Register'
+import "./../style.scss";
 
-import './App.css'
 
-function App() {
+const App = () => {
   return (
-    <>
-      
-      <h1>Vite + React</h1>
-   
-    </>
-  )
-}
+    <div>
+      <Register/>
+    </div>
+  );
+};
 
-export default App
+export default App;
