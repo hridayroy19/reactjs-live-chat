@@ -1,13 +1,15 @@
 import Register from './pages/Register'
 import "./../style.scss";
-import Login from './pages/Login';
+// import Login from './pages/Login';
+import Home from './pages/Home';
 
 
 const App = () => {
   return (
     <div>
-      <Register/>
+      {/* <Register/> */}
       {/* <Login/> */}
+      <Home/>
     </div>
   );
 };
