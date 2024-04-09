@@ -6,7 +6,7 @@ const Chats = () => {
      
         <div
           className="userChat">
-          <img src="" alt="logo" />
+          <img src="https://i.ibb.co/rQ35nKP/istockphoto-1354893114-612x612.jpg" alt="logo" />
           <div className="userChatInfo">
             <span>displayName</span>
             <p>lastMessage?.text</p>

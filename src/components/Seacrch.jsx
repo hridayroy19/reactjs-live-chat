@@ -12,10 +12,10 @@ const Seacrch = () => {
             value="username"
           />
         </div>
-       <span>User not found!</span>
+       {/* <span>User not found!</span> */}
         
           <div className="userChat">
-            <img src="" alt="" />
+            <img src="https://i.ibb.co/rQ35nKP/istockphoto-1354893114-612x612.jpg" alt="" />
             <div className="userChatInfo">
               <span> name</span>
             </div>

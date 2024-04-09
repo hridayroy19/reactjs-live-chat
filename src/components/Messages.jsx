@@ -1,13 +1,13 @@
+import Message from "./Message";
 
 
 const Messages = () => {
     return (
         <div className="messages">
         
-          <p> hello world</p>
-          <p> hello world</p>
-          <p> hello world</p>
-          <p> hello world</p>
+          <Message/>
+          <Message/>
+          <Message/>
         
       </div>
     );
